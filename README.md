@@ -11,6 +11,12 @@ In order to use this app, you must first install all the necessary packages to r
 How to contribute:
 In order to contribute to this page, you need to have permission from the repository owner. It is publicly viewable, but changes have to be from users that have been granted permission to make edits on the page.
 
+Screenshots:
+![Screenshot 2024-09-21 at 11 47 15 AM](https://github.com/user-attachments/assets/c2230143-2fc1-4471-8069-4068e9d4086b)
+
+![Screenshot 2024-09-21 at 11 44 25 AM](https://github.com/user-attachments/assets/010d3179-41bd-4bfd-aefa-937feda4da88)
+
+
 License: MIT License
 
 License Explanation:
