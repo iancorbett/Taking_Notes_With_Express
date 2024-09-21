@@ -20,6 +20,10 @@ Screenshots:
 
 Sources:
 
+For this project, I did not copy any source code, but I did have the help of one tutor named Charlie. I was having a couple issues and he was able to help me resolve them. For example, originally I was not using the uuid correctly, and therefore a unique id was not being generated. The correct notation is: const {v4: uuidv4} = require('uuid');. However I had const uuid = require('uuid'). Help me fix this error and use correct notation, making it work properly. Additionally, there is another error, that I could not solve, where I kept seeing my console saying undefined. Additionally, i could write a note but when I saved it, it disappeared. He helped me resolve this issue and it allowed each new note to save before when I entered a note. The issue was that I had forgotten to add the middleware, specifically the following code: 
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+Upon fixing that issue, the application functioned as it was supposed to.
 
 License: 
 
